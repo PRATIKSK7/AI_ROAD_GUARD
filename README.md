@@ -343,7 +343,7 @@ The system demonstrates high robustness in various conditions including daylight
 *Note: Replace placeholders with actual application screenshots.*
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x450/1e293b/ffffff?text=React+Dashboard+-+Live+Monitoring" alt="Live Monitoring Dashboard">
+  <img src="screenshots/dashboard.png" alt="Live Monitoring Dashboard">
   <br>
   <em>Fig 1: React Dashboard showing live video stream and real-time detection overlay.</em>
 </p>
@@ -351,7 +351,7 @@ The system demonstrates high robustness in various conditions including daylight
 <p align="center">
   <img src="https://via.placeholder.com/800x450/1e293b/ffffff?text=Incident+Logs+Database+View" alt="Incident Logs">
   <br>
-  <em>Fig 2: Historical incident logs with Cloudinary image thumbnails.</em>
+  <em></em>
 </p>
 
 <p align="center">
