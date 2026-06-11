@@ -1,0 +1,64 @@
+# Environments
+venv/
+.venv/
+env/
+.env
+backend/venv/
+backend/.venv/
+
+# Node
+node_modules/
+dist/
+build/
+.npm/
+
+# Datasets and Data
+custom_dataset/
+datasets/
+data/
+uploads/
+runs/
+
+# Model Weights
+*.pt
+*.pth
+*.onnx
+*.weights
+
+# Videos and Media
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# OS/IDE Files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+
+# Output Directories
+backend/reports/
+backend/screenshots/
