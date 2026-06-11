@@ -349,13 +349,13 @@ The system demonstrates high robustness in various conditions including daylight
 </p>
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x450/1e293b/ffffff?text=Incident+Logs+Database+View" alt="Incident Logs">
+  <img src="../screenshots/detection.png" alt="AI Detection Results">
   <br>
-  <em>Fig 2: Historical incident logs with Cloudinary image thumbnails.</em>
+  <em>Fig 2: AI inference results displaying confidence score and detected vehicles.</em>
 </p>
 
 <p align="center">
-  <img src="https://via.placeholder.com/300x500/1e293b/ffffff?text=WhatsApp+Alert+via+Twilio" alt="WhatsApp Alert">
+  <img src="../screenshots/whatsapp.png" alt="WhatsApp Alert" width="300">
   <br>
   <em>Fig 3: Automated WhatsApp emergency alert received on a mobile device.</em>
 </p>
