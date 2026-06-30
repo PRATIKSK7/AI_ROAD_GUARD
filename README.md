@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://via.placeholder.com/1200x300/0f172a/38bdf8?text=AI-Powered+Accident+Detection+%26+Emergency+Alert+System" alt="AI-Powered Accident Detection Banner">
+<img src="screenshots/hero-banner.png" alt="AI-Powered Accident Detection Banner" width="100%">
 
 # 🚨 AI-Powered Accident Detection & Emergency Alert System
 
